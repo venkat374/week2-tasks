@@ -41,7 +41,7 @@ Ready to run the code? Here's how:
 
 ## Contributing
 
-Your insights and improvements are welcome! Feel free to fork this repository and submit a pull request with your suggestions.
+Your insights and improvements are welcome!
 
 ## License
 
